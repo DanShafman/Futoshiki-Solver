@@ -1,1 +1,3 @@
 src/Board.h.gch
+src/BacktrackSearch.h.gch
+src/*.out
